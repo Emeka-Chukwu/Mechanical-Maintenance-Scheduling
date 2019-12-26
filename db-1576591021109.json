@@ -1,0 +1,286 @@
+{
+  "jobs": [
+    {
+      "name": "ddddddd",
+      "email": "ddddddddd",
+      "phone": "ddddddddd",
+      "title": "dddddddd",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"electrical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"plug-oils\",\"bleeding\",\"alternator\",\"window-rotor\",\"fullbody-renovation\"]",
+      "duration": "38565",
+      "arrival": "12/16/2019 13:35",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 1
+    },
+    {
+      "name": "ddddddd",
+      "email": "ddddddddd",
+      "phone": "ddddddddd",
+      "title": "dddddddd",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"electrical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"plug-oils\",\"bleeding\",\"alternator\",\"window-rotor\",\"fullbody-renovation\"]",
+      "duration": "908470",
+      "arrival": "12/16/2019 13:35",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "true",
+      "id": 2
+    },
+    {
+      "name": "ddddddd",
+      "email": "ddddddddd",
+      "phone": "ddddddddd",
+      "title": "dddddddd",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"electrical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"plug-oils\",\"bleeding\",\"alternator\",\"window-rotor\",\"fullbody-renovation\"]",
+      "duration": "900645",
+      "arrival": "12/16/2019 13:35",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 3
+    },
+    {
+      "name": "ddddddd",
+      "email": "ddddddddd",
+      "phone": "ddddddddd",
+      "title": "dddddddd",
+      "arrival": "12/16/2019 13:35",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"electrical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"plug-oils\",\"bleeding\",\"alternator\",\"window-rotor\",\"fullbody-renovation\"]",
+      "duration": "9089655215",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 4
+    },
+    {
+      "name": "ddddddd",
+      "email": "ddddddddd",
+      "phone": "ddddddddd",
+      "title": "dddddddd",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"electrical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"plug-oils\",\"bleeding\",\"alternator\",\"window-rotor\",\"fullbody-renovation\"]",
+      "duration": "39165",
+      "arrival": "12/16/2019 13:35",
+      "isCompleted": "false",
+      "inProgress": "false",
+      "taken": "true",
+      "id": 5
+    },
+    {
+      "name": "ugoChukwu",
+      "email": "emek",
+      "phone": "444444444444",
+      "title": "title job",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"mechanical\",\"mechanical\",\"mechanical\",\"Air Condition\",\"Air Condition\",\"panel beating\"]",
+      "Tasks": "[\"gasket\",\"engine-belt\",\"brake-pad\",\"bleeding\",\"linkages-booshing\",\"compressor\",\"expansion-valves\",\"Partial-body-renovation\"]",
+      "duration": "901500",
+      "isCompleted": "false",
+      "arrival": "12/16/2019 13:35",
+      "inProgress": "false",
+      "taken": "true",
+      "id": 6
+    },
+    {
+      "name": "okey",
+      "email": "okeyifee@gmail.com",
+      "phone": "000000",
+      "arrival": "12/16/2019 13:35",
+      "title": "euue",
+      "section": "[\"mechanical\",\"mechanical\",\"mechanical\"]",
+      "Tasks": "[\"gasket\",\"brake-pad\"]",
+      "duration": "600",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 7
+    },
+    {
+      "name": "okey",
+      "email": "okeyifee@gmail.com",
+      "phone": "000000",
+      "arrival": "12/16/2019 13:35",
+      "title": "euue",
+      "section": "[\"mechanical\",\"mechanical\",\"mechanical\"]",
+      "Tasks": "[\"gasket\",\"brake-pad\"]",
+      "duration": "1140",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 8
+    },
+    {
+      "name": "okey",
+      "email": "okeyifee@gmail.com",
+      "phone": "000000",
+      "arrival": "12/16/2019 13:35",
+      "title": "euue",
+      "section": "[\"mechanical\",\"mechanical\",\"mechanical\"]",
+      "Tasks": "[\"gasket\",\"brake-pad\"]",
+      "duration": "5840",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 9
+    },
+    {
+      "name": "okon",
+      "email": "nkwo",
+      "phone": "09086",
+      "title": "the title there nah",
+      "section": "[\"panel-beating\",\"mechanical\",\"mechanical\",\"mechanical\",\"electrical\",\"panel beating\"]",
+      "Tasks": "[\"engine-oil\",\"gasket\",\"shock\",\"headlamp-set\",\"Partial-body-renovation\"]",
+      "arrival": "Tue Dec 17 2019 11:58:25 GMT+0100 (West Africa Standard Time)",
+      "duration": "243470",
+      "isCompleted": "false",
+      "inProgress": "false",
+      "taken": "true",
+      "id": 10
+    },
+    {
+      "name": "ccccc",
+      "email": "emeka@gmail.com",
+      "phone": "8165955353",
+      "title": "ddddddddddd",
+      "section": "[\"air-condition\",\"electrical\",\"electrical\"]",
+      "Tasks": "[\"headlamp-set\",\"window-rotor\"]",
+      "arrival": "Tue Dec 17 2019 13:22:30 GMT+0100 (West Africa Standard Time)",
+      "duration": "90",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 11
+    },
+    {
+      "name": "emeka chukwu",
+      "email": "emeka@gmail.com",
+      "phone": "8165955353",
+      "title": "pppp",
+      "section": "[\"electrical\",\"electrical\",\"electrical\"]",
+      "Tasks": "[\"headlamp-bulb\",\"window-rotor\"]",
+      "arrival": "Tue Dec 17 2019 13:27:15 GMT+0100 (West Africa Standard Time)",
+      "duration": "4500",
+      "isCompleted": "false",
+      "inProgress": "true",
+      "taken": "false",
+      "id": 12
+    }
+  ],
+  "machines": [
+    {
+      "id": 1,
+      "section": "panel beating",
+      "isAvailable": "false",
+      "duration": "-1",
+      "jobId": "1"
+    },
+    {
+      "id": 2,
+      "section": "panel beating",
+      "isAvailable": "false",
+      "duration": "-1",
+      "jobId": "2"
+    },
+    {
+      "id": 3,
+      "section": "panel beating",
+      "isAvailable": "false",
+      "duration": "39",
+      "jobId": "3"
+    },
+    {
+      "id": 4,
+      "section": "panel beating",
+      "isAvailable": "false",
+      "duration": "109",
+      "jobId": "4"
+    },
+    {
+      "id": 5,
+      "section": "mechanical",
+      "isAvailable": "false",
+      "duration": "600",
+      "jobId": "7"
+    },
+    {
+      "id": 6,
+      "section": "mechanical",
+      "isAvailable": "false",
+      "duration": "1140",
+      "jobId": "8"
+    },
+    {
+      "id": 7,
+      "section": "mechanical",
+      "isAvailable": "false",
+      "duration": "5840",
+      "jobId": "9"
+    },
+    {
+      "id": 8,
+      "section": "mechanical",
+      "isAvailable": "false",
+      "duration": "650",
+      "jobId": "7"
+    },
+    {
+      "id": 9,
+      "section": "Electrical",
+      "isAvailable": "false",
+      "duration": "4500",
+      "jobId": "12"
+    },
+    {
+      "id": 10,
+      "section": "Electrical",
+      "isAvailable": "true",
+      "duration": "10",
+      "jobId": "22"
+    },
+    {
+      "id": 11,
+      "section": "Electrical",
+      "isAvailable": "true",
+      "duration": "18",
+      "jobId": "20"
+    },
+    {
+      "id": 12,
+      "section": "Electrical",
+      "isAvailable": "true",
+      "duration": "26",
+      "jobId": "20"
+    },
+    {
+      "id": 13,
+      "section": "Air Condition",
+      "isAvailable": "true",
+      "duration": "65",
+      "jobId": "24"
+    },
+    {
+      "id": 14,
+      "section": "Air Condition",
+      "isAvailable": "true",
+      "duration": "90",
+      "jobId": "25"
+    },
+    {
+      "id": 15,
+      "section": "Air Condition",
+      "isAvailable": "false",
+      "duration": "7200",
+      "jobId": "11"
+    },
+    {
+      "id": 16,
+      "section": "Air Condition",
+      "isAvailable": "true",
+      "duration": "0",
+      "jobId": "23"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+let displaySectionWorkingWaiting;
+let jobAwaitingIncremental = 0;
+let counterAwait = 1;
+
+
+const updateAwaitingData = async() =>{
+
+    let date = new Date()
+if(date.getHours() < 17 && date.getHours() >= 8){
+    if(date.getDay() == 0 ){
+
+    } else if(date.getDay() == 6){
+
+    }else{
+        if(counterAwait == 1 || counter % 20 == 0){
+        let response = await fetch(`http://localhost:3000/machines?isAvailable=${"false"}`);
+        displaySectionWorkingWaiting = response.json();
+        // const responseSecond =   
+
+    }
+    console.log( displaySectionWorkingWaiting)
+
+    
+        // if(displaySectionWorkingWaiting.length > 0){
+        //     displaySectionWorkingWaiting
+        //         .filter( e => e.duration != 0)
+        //         .map(e => e.duration - 5)
+        // }
+     
+        // if(displaySectionWorkingWaiting.length - 1 == jobAwaitingIncremental){
+        //     jobAwaitingIncremental = 0
+        // } 
+
+        //     // for updating the new time duration for the awaiting jobs
+        //    
+        
+        }  
+    
+    }
+}
+
+// updateData()
+setInterval(updateAwaitingData, 2000)

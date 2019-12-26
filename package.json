@@ -1,0 +1,11 @@
+{
+  "name": "queuesystem",
+  "version": "1.0.0",
+  "description": "queue system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ugozeal",
+  "license": "ISC"
+}

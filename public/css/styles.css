@@ -1,0 +1,74 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  color: #212226;
+}
+h1,
+h2 h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 400px;
+  line-height: 24px;
+}
+section {
+  background: #fff;
+  overflow: hidden;
+}
+
+/*=================================
+| | | | | | Buttons | | | | | |
+=====================================*/
+
+.btn-general {
+  font-family: "Raleway", sans-serif;
+  border-radius: 28px;
+  text-transform: uppercase;
+  margin: 0 6px;
+  padding: 12px 46px 12px 46px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.btn-yellow {
+  color: #fff;
+  background-color: #f4c613;
+  border: 1px solid #f4c613;
+}
+
+.btn-yellow:hover,
+.btn-yellow:focus {
+  color: #fff;
+  background-color: #212226;
+  border: 1px solid #212226;
+}
+
+/* Form */
+#contact-right {
+  padding: 25px 30px;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+#contact-right h4 {
+  font-size: 24px;
+}
+#contact-right p {
+  margin-bottom: 25px;
+}
+#contact-right form .form-control {
+  font-family: "Open Sans", sans-serif;
+  padding: 10px 15px;
+  font-size: 12px;
+  line-height: 24px;
+}
+#contact-right form textarea.form-control {
+  min-height: 164px;
+}
